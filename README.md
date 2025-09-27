@@ -1,25 +1,23 @@
-# 👋 Welcome to My GitHub Profile
+# 👋 Hi, I'm Zulfan Syafiqi
 
-Hi there! I'm **Zulfan Syafiqi** 👨‍💻  
-🎓 Student at **Institut Teknologi dan Sains Mandala**
-
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)  
+🎓 Student at **Institut Teknologi dan Sains Mandala**  
+💻 Passionate about **Web Development, PHP, and Software Projects**  
 
 ---
 
 ## 🌟 About Me
-- 💡 Passionate about **coding and creating projects**
-- 🌱 Exploring **web development, PHP, and software solutions**
-- ⚡ Always eager to **learn new technologies**
-- 🎯 Goal: Build **impactful and fun projects**
+- 💡 Turning ideas into **real projects**  
+- 🌱 Learning **Full Stack Development, Java, PHP, and Bootstrap 5**  
+- ⚡ Exploring **new technologies & coding challenges**  
 
 ---
 
 ## 🛠 Skills
-- **Languages:** PHP, Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Bootstrap 5, Git, MySQL, VS Code  
 
-
-
-### 🚀 Fun Fact
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+**Programming Languages:**  
+```text
+PHP       ██████████ 90%
+Java      ████████░░ 75%
+JavaScript ███████░░░ 70%
+HTML/CSS  █████████░ 85%
