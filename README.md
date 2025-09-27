@@ -1,15 +1,25 @@
-# ![Welcome](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+GitHub)
+<p align="center">
+  <!-- Animated background GIF -->
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" alt="Background" />
+</p>
 
-![Zulfan Syafiqi](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=800&height=80&lines=Zulfan+Syafiqi)
+<p align="center">
+  <!-- Animated typing text: Welcome -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=60&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+My+GitHub" alt="Welcome" />
+</p>
 
-![Student at Institut Teknologi dan Sains Mandala](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=3498DB&center=true&vCenter=true&width=800&height=50&lines=Student+at+Institut+Teknologi+dan+Sains+Mandala)
+<p align="center">
+  <!-- Animated typing text: Name -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=50&pause=1000&color=FF5733&center=true&vCenter=true&width=800&height=80&lines=Zulfan+Syafiqi" alt="Name" />
+</p>
 
----
+<p align="center">
+  <!-- Animated typing text: Institution -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&pause=1000&color=3498DB&center=true&vCenter=true&width=800&height=60&lines=Student+at+Institut+Teknologi+dan+Sains+Mandala" alt="Institution" />
+</p>
 
-![Coding GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-
-## ✨ Stickers & Fun
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-7.4-blue?style=for-the-badge&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <!-- Fun programmer sticker/icons -->
+  <img src="https://cdn-icons-png.flaticon.com/512/3062/3062634.png" width="100" alt="Robot Icon" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1055/1055672.png" width="100" alt="Code Sticker" />
+</p>
