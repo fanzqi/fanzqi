@@ -1,7 +1,3 @@
-<p align="center">
-  <!-- Background GIF futuristik / tech -->
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" alt="Background Tech" />
-</p>
 
 <p align="center">
   <!-- Animated typing text: Welcome -->
